@@ -259,7 +259,7 @@ function update() {
     }
 
     if (snake.die()) {
-        alert("GAME OVER!!!");
+        alert("GAME OVER");
         clearInterval(interval);
         window.location.reload();
     }
