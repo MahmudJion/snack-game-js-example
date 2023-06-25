@@ -51,10 +51,6 @@ Feel free to customize the game according to your preferences. Here are a few id
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 This game was inspired by the classic Snake Game and built using only Vanilla JavaScript.
